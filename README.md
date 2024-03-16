@@ -6,7 +6,7 @@
   <!--<img src="https://avatars.githubusercontent.com/u/52624146" width="100"/>-->
   <div id="badges">
     <a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-%23E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Badge"/></a>
-    <a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
+    <a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam%C2%AE%EF%B8%8F-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
     <a href="https://www.gog.com/u/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GOG-%2386328A?style=for-the-badge&logo=gogdotcom&logoColor=white" alt="GOG Badge"/></a>
     <a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce"><img src="https://img.shields.io/badge/Ubisoft%20Connect-%23000?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft Connect Badge"/></a>
     <a href="https://www.youtube.com/@eziothedeadpoet"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
