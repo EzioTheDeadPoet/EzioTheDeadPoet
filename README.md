@@ -33,7 +33,7 @@ I also help out with the [Wabbajack](https://www.wabbajack.org/) Project by cont
 
 ### Discontinued Wabbajack Modlists
 
-- ~~[SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/)~~ **Discontinued since 19.07.2022**  
+- [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) **Discontinued since 19.07.2022**  
 *Use [Skyrim Modding Essentials by Phoenix](https://thephoenixflavour.com/sme/) instead.*
 
 ## Support Me
