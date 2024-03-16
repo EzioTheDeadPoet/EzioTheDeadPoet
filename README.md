@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/52624146" width="300"/>
+  <img src="https://avatars.githubusercontent.com/u/52624146" width="100"/>
   <div id="badges">
     <a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-%23E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Badge"/></a>
     <a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
@@ -19,20 +19,22 @@
 
 ## About Me
 
-Hey my name is Luca, you most likely will know me as the creator of [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/) or one of my other mods or Synthesis Patchers found on [Nexus Mods](https://www.nexusmods.com/users/42051055?tab=user+files).
+Hey my name is Luca, you most likely will know me as the creator of [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/) or one of my other mods or [Synthesis Patchers](https://github.com/Mutagen-Modding/Synthesis/wiki#what-does-synthesis-do) found on [Nexus Mods](https://www.nexusmods.com/users/42051055?tab=user+files).
 
-I also help out with the Wabbajack Project and occasionally help with alpha tests for new features, either directly or indirectly by having created a nice test list with SME(FT). I enjoy videogames and try to get better at doing digital art and coding in my free time.
+I also help out with the [Wabbajack](https://www.wabbajack.org/) Project by contributing to the app directly, writing documentation and updating the website. In my free time I enjoy videogames and try to get better at doing digital art and coding.
 
-## My Modlists
-
-- ~~[SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/)~~ **Discontinued since 19.07.2022**  
-*Use [Skyrim Modding Essentials by Phoenix](https://thephoenixflavour.com/sme/) instead.*
+### My Wabbajack Modlists
 
 - [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/) **Currently not available due to time and motivation issues.**  
   Primarily focused on bringing you a visual overhaul similar to Borderlands and other cell-shaded games and secondly focused on a player empowering progression and the addition of a huge amount of enchantments spread through the world of Skyrim.
 
 - [Dishonored Plus](https://dishonored-plus.eziothedeadpoet.at/)  
   A small collection of essential mods for Dishonored that adds some QoL improvemnts.
+
+### Discontinued Wabbajack Modlists
+
+- ~~[SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/)~~ **Discontinued since 19.07.2022**  
+*Use [Skyrim Modding Essentials by Phoenix](https://thephoenixflavour.com/sme/) instead.*
 
 ## Support Me
 
