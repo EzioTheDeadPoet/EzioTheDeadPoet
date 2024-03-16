@@ -48,7 +48,6 @@ If you like what I do you can support me on Ko-Fi, either monthly or with a one 
 
 ---
 
-<!-- markdownlint-enable MD033 -->
 *©2024 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.*
 
 ---
