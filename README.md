@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/52624146" width="100"/>
+  <!--<img src="https://avatars.githubusercontent.com/u/52624146" width="100"/>-->
   <div id="badges">
     <a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-%23E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Badge"/></a>
     <a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
