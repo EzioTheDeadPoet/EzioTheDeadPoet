@@ -9,7 +9,7 @@
     <a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce"><img src="https://img.shields.io/badge/Ubisoft%20Connect-%23000?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft Connect Badge"/></a>
   </div>
   <div id="badges-2">
-    <a href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+    <a href="https://www.youtube.com/@eziothedeadpoet"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
     <a href="https://twitter.com/eziothedeadpoet"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
     <a href="https://www.reddit.com/user/EzioTheDeadPoet"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
   </div>
